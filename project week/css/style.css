@@ -31,20 +31,17 @@ header {
 }
 
 .nav-links a {
-<<<<<<< HEAD
   color: #401d44;
   text-decoration: none;
   font-size: 16px;
   transition: color 0.3s;
   font-family: "Montserrat", sans-serif;
-=======
-    color: #401d44;
-    text-decoration: none;
-    font-size: 16px;
-    transition: color 0.3s;
-    font-family: "Montserrat", sans-serif;
-    font-weight: bold;
->>>>>>> e712d151d77e9833c30fedab5b1b5543fc228cf4
+  color: #401d44;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.3s;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
 }
 
 .nav-links a:hover {
@@ -52,25 +49,20 @@ header {
 }
 
 .login {
-<<<<<<< HEAD
   background-color: #cfb6cf;
   color: #000000;
   padding: 10px 20px;
   cursor: pointer;
   border-radius: 10px;
-=======
-    background-color: #E6DAE6;
-    ;
-    color: #000000;
-    padding: 10px 20px;
-    cursor: pointer;
-    border-radius: 35px;
-    margin-right: -187px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: light;
-    border: none;
-
->>>>>>> e712d151d77e9833c30fedab5b1b5543fc228cf4
+  background-color: #e6dae6;
+  color: #000000;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 35px;
+  margin-right: -187px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: light;
+  border: none;
 }
 
 .logo {
@@ -88,7 +80,6 @@ header {
 }
 
 .card {
-<<<<<<< HEAD
   background-color: #b3e5fc;
   padding: 99px;
   border-radius: 10px;
@@ -110,38 +101,36 @@ header {
 .left-card p {
   font-size: 1rem;
   line-height: 1.5;
-=======
-    background-color: #b3e5fc;
-    padding: 90px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    width: 249px;
-    text-align: left;
+  background-color: #b3e5fc;
+  padding: 90px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 249px;
+  text-align: left;
 }
 
 .left-card h2 {
-    color: #5c2d91;
-    font-size: 1rem;
-    margin-left: -66px;
-    font-family: "Lato", sans-serif;
-    font-weight: bold;
+  color: #5c2d91;
+  font-size: 1rem;
+  margin-left: -66px;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
 }
 
 .left-card h1 {
-    font-size: 1.5rem;
-    margin: 10px 0;
-    margin-left: -67px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: bold;
+  font-size: 1.5rem;
+  margin: 10px 0;
+  margin-left: -67px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
 }
 
 .left-card p {
-    font-size: 1rem;
-    line-height: 1.5;
-    margin-left: -68px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: light;
->>>>>>> e712d151d77e9833c30fedab5b1b5543fc228cf4
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-left: -68px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: light;
 }
 
 .right-section {
@@ -167,7 +156,6 @@ header {
 }
 
 .right-section h2 {
-<<<<<<< HEAD
   color: #7d3a76;
   font-size: 2.3rem;
   margin: 10px 0;
@@ -515,246 +503,220 @@ button {
 .paragraaf p {
   margin-left: 2px;
   font-size: 19px;
-=======
-    color: #7D3A76;
-    font-size: 2.3rem;
-    margin: 10px 0;
-    font-family: "Lato", sans-serif;
-    font-weight: bold;
-
+  color: #7d3a76;
+  font-size: 2.3rem;
+  margin: 10px 0;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
 }
 
 .right-section p {
-    font-size: 1rem;
-    color: #000;
-    margin: 10px 0;
-    font-family: "Montserrat", sans-serif;
-    font-weight: light;
+  font-size: 1rem;
+  color: #000;
+  margin: 10px 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: light;
 }
 
 .interessetest {
-    background-color: #b180d7;
-    color: rgb(0, 0, 0);
-    border: none;
-    border-radius: 21px;
-    font-size: 1rem;
-    cursor: pointer;
-    padding: 14px 16px;
+  background-color: #b180d7;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 21px;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 14px 16px;
 }
-
 
 /* learn pagina */
 
 .software-developer-container {
-
-    width: 100%;
-    height: auto;
-    display: flex;
-    justify-content: center;
-    padding-top: 100px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
 }
 
 .rectangle {
-
-    background-color: #D4F2F4;
-    width: 400px;
-    height: 70px;
-    border-radius: 30px;
-    display: flex;
-    justify-content: center;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #75A1A4;
-    box-shadow: 0px 2px 3px 2px #75A1A4;
+  background-color: #d4f2f4;
+  width: 400px;
+  height: 70px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #75a1a4;
+  box-shadow: 0px 2px 3px 2px #75a1a4;
 }
 
 .software-text {
-    font-family: Arial, Helvetica, sans-serif;
-    font: size 300px;
-    font-weight: 900;
-    color: #7783C1;
+  font-family: Arial, Helvetica, sans-serif;
+  font: size 300px;
+  font-weight: 900;
+  color: #7783c1;
 }
 
 .paragraph-software-development-container {
-
-    width: 650px;
-    height: auto;
-    margin-left: 500px;
-    margin-top: 40px;
+  width: 650px;
+  height: auto;
+  margin-left: 500px;
+  margin-top: 40px;
 }
 
 .paragraph1 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
 }
 
 .image-middle {
-    width: 300px;
-    height: 300px;
+  width: 300px;
+  height: 300px;
 }
 
 .paragraph-software-development-container2 {
-    width: 650px;
-    height: auto;
-    margin-left: 500px;
-    margin-top: 40px;
-
+  width: 650px;
+  height: auto;
+  margin-left: 500px;
+  margin-top: 40px;
 }
 
 .Keuze {
-    margin-top: 60px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 900;
-    color: #7783C1;
+  margin-top: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  color: #7783c1;
 }
 
 .keuze-vakken-card-container {
-
-    width: 100%;
-    height: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    margin-top: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 10px;
 }
 
 .card1 {
-
-    width: 400px;
-    height: 350px;
-    background-color: #D4F2F4;
-    border-radius: 25px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #75A1A4;
-    box-shadow: 0px 2px 3px 2px #a3afaf;
-    margin-right: 20px;
+  width: 400px;
+  height: 350px;
+  background-color: #d4f2f4;
+  border-radius: 25px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #75a1a4;
+  box-shadow: 0px 2px 3px 2px #a3afaf;
+  margin-right: 20px;
 }
 
 .card2 {
-
-    width: 400px;
-    height: 350px;
-    background-color: #D4F2F4;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    border-radius: 25px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #75A1A4;
-    box-shadow: 0px 2px 3px 2px #a3afaf;
-    margin-right: 20px;
+  width: 400px;
+  height: 350px;
+  background-color: #d4f2f4;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 25px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #75a1a4;
+  box-shadow: 0px 2px 3px 2px #a3afaf;
+  margin-right: 20px;
 }
 
 .card3 {
-    width: 400px;
-    height: 350px;
-    background-color: #D4F2F4;
-    border-radius: 25px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #75A1A4;
-    box-shadow: 0px 2px 3px 2px #a3afaf;
+  width: 400px;
+  height: 350px;
+  background-color: #d4f2f4;
+  border-radius: 25px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #75a1a4;
+  box-shadow: 0px 2px 3px 2px #a3afaf;
 }
 
 .rectangle-text {
-    margin-top: 45px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 300;
-    margin-bottom: 20px;
-
+  margin-top: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 300;
+  margin-bottom: 20px;
 }
 
 .algemene-vakken-conatiner {
-    width: 100%;
-    height: auto;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    padding-bottom: 100px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 100px;
 }
 
-
 .card-paragraph {
-
-    padding: 20px;
+  padding: 20px;
 }
 
 .algemene {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 900;
-    color: #7783C1;
-    margin-bottom: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  color: #7783c1;
+  margin-bottom: 20px;
 }
 
-
 .under-text {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 400;
-    margin-bottom: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  margin-bottom: 20px;
 }
 
 .vakken-image {
-    width: 80px;
-    height: 80px;
-    margin-top: 60px;
+  width: 80px;
+  height: 80px;
+  margin-top: 60px;
 }
 
-
 .vak1 {
-    height: auto;
-    width: 500px;
-    margin-right: 50px;
+  height: auto;
+  width: 500px;
+  margin-right: 50px;
 }
 
 .vak2 {
-    height: auto;
-    width: 560px;
-    
+  height: auto;
+  width: 560px;
 }
 
 .meer-over {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 900;
-    color: #7783C1;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  color: #7783c1;
 }
 
 .meer-over-paragraph {
-
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-
-
-
-
-
-
 .kracht {
-    display: flex;
-    justify-content: space-evenly;
-    text-align: left;
-    margin-right: -155px;
-    margin-top: 78px;
-
+  display: flex;
+  justify-content: space-evenly;
+  text-align: left;
+  margin-right: -155px;
+  margin-top: 78px;
 }
 
 .paragraaf h2 {
-    color: #6E6EB4;
-    margin-left: -1px;
-    margin-bottom: -14px;
-    font-family: "Lato", sans-serif;
-    font-weight: bold;
-
+  color: #6e6eb4;
+  margin-left: -1px;
+  margin-bottom: -14px;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
 }
 
 .paragraaf p {
-    margin-left: 2px;
-    font-size: 19px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: light;
->>>>>>> e712d151d77e9833c30fedab5b1b5543fc228cf4
+  margin-left: 2px;
+  font-size: 19px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: light;
 }
 
 .image-container2 {
@@ -770,7 +732,6 @@ button {
 }
 
 footer {
-<<<<<<< HEAD
   background-color: #65527f;
   padding: 20px;
   position: relative;
@@ -864,95 +825,92 @@ footer {
 .icon img {
   width: 100%;
   height: 100%;
-=======
-    background-color: #6A4A87;
-    padding: 10px 0;
+  background-color: #6a4a87;
+  padding: 10px 0;
 }
 
 .footer-container {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    gap: 44px;
-    padding-right: 111px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 44px;
+  padding-right: 111px;
 }
 
 .footer-container a img,
 .footer-container .logo img {
-    width: 40px;
-    height: 40px;
+  width: 40px;
+  height: 40px;
 }
 
 .roclogo img {
-    width: 80px;
-    height: auto;
+  width: 80px;
+  height: auto;
 }
-.opleidingen{
-    display: flex;
-    flex-direction: column;
-    justify-content: left;
-    align-items: left;
-    
+.opleidingen {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
 }
 .opleidingen h2 {
-    color: #3F2E56;
-    font-size: 77px;
-    margin-left: -66px;
-    font-family: "Lato", sans-serif;
-    font-weight: bold;
-    margin-top: -171px;
-    margin-left: -420px;
+  color: #3f2e56;
+  font-size: 77px;
+  margin-left: -66px;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  margin-top: -171px;
+  margin-left: -420px;
 }
-.opleidingen p{
-    margin-left: 114px;
-    font-size: 19px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: light;
-    text-align: left;
-    margin-top: -48px;
+.opleidingen p {
+  margin-left: 114px;
+  font-size: 19px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: light;
+  text-align: left;
+  margin-top: -48px;
 }
 .buttons {
-    display: flex;
-    justify-content: space-evenly;
-    flex-direction: row;
-    padding: 60px;
-    border: none;
-    margin-left: -121px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  padding: 60px;
+  border: none;
+  margin-left: -121px;
 }
 
 .button1 {
-    background-color: #FFEE9B;
-    color: rgb(0, 0, 0);
-    border: none;
-    border-radius: 31px;
-    font-size: 1rem;
-    cursor: pointer;
-    padding: 40px 12px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 540;
+  background-color: #ffee9b;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 31px;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 40px 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 540;
 }
 
 .button2 {
-    background-color: #D7FCF4;
-    color: rgb(0, 0, 0);
-    border: none;
-    border-radius: 31px;
-    font-size: 1rem;
-    cursor: pointer;
-    padding: 40px 12px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 540;
+  background-color: #d7fcf4;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 31px;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 40px 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 540;
 }
 
 .button3 {
-    background-color: #D86DA0;
-    color: rgb(0, 0, 0);
-    border: none;
-    border-radius: 31px;
-    font-size: 1rem;
-    cursor: pointer;
-    padding: 40px 12px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 540;
->>>>>>> e712d151d77e9833c30fedab5b1b5543fc228cf4
+  background-color: #d86da0;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 31px;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 40px 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 540;
 }
